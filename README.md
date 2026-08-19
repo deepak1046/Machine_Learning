@@ -2,7 +2,7 @@
 
 ## 1. Linear Regression
 
-**Dataset:** Available in the notebook/repository.
+**Dataset:** Available in the notebook
 
 Implemented Linear Regression for predicting the target variable.
 
@@ -13,11 +13,9 @@ Implemented Linear Regression for predicting the target variable.
 * Model training and prediction
 * Evaluation using MAE, MSE, RMSE and R² Score
 
-**Notebook:** [Linear Regression Notebook](#)
-
 ## 2. Logistic Regression
 
-**Dataset:** Available in the notebook/repository.
+**Dataset:** Available in the repository.
 
 Implemented Logistic Regression for classification.
 
@@ -28,4 +26,3 @@ Implemented Logistic Regression for classification.
 * Model training and prediction
 * Model evaluation
 
-**Notebook:** [Logistic Regression Notebook](#)
